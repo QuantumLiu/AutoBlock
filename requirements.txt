@@ -1,0 +1,4 @@
+opencv-python==4.0.1
+opencv-contrib-python
+numpy
+tqdm
