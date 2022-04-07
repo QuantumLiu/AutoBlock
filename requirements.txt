@@ -1,4 +1,6 @@
-opencv-python==4.0.1
-opencv-contrib-python
+opencv-python==4.4.0.44
+opencv-contrib-python==4.4.0.44
 numpy
 tqdm
+pyinstaller==4.4
+pyinstaller-hooks-contrib==2021.2
